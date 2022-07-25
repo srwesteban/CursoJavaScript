@@ -1,7 +1,7 @@
 const nombre = 'william';
 var edad = 29;
 let soydesarrollador = true;
-let fecha = new Date('1992 09 28')
+let fecha = new Date('1995 09 28')
 const libro = {
     titulo:'berserk',
     autor: 'kentaro miura',
