@@ -1,0 +1,25 @@
+{
+  "name": "hola-mundo",
+  "version": "1.0.0",
+  "description": "este es el mi primer proyecto",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "saludar":"node holamundo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srwesteban/TareasBootcamp.git"
+  },
+  "keywords": [
+    "first",
+    "proyect"
+  ],
+  "author": "william",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srwesteban/TareasBootcamp/issues"
+  },
+  "homepage": "https://github.com/srwesteban/TareasBootcamp#readme"
+}
