@@ -25,3 +25,4 @@ console.log(sinEspacios.trim().length);
 
 let bolean = estudiante.includes(nombre);
 console.log(bolean)
+
